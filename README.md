@@ -8,6 +8,20 @@ This is the working document for the Entire CHIF Manager Project
 
 [Other Documentation](https://github.com/C-Hear/documentation)
 
+## Client Screen Shots
+
+### Home Page
+
+![Home Page](./home.png)
+
+### File Builder Page
+
+![Builder Page](./builder.png)
+
+### Library Page
+
+![Library Page](./library.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -606,20 +620,6 @@ create/obtain a .env file in `/server` that includes the following:
 -   [Auth0](https://auth0.com/) - Authentication Process
 -   [Mailgun](https://www.mailgun.com/) - Mailing System
 -   [GCP](https://cloud.google.com/) - Cloud App Engine Deployment and File/Database Storage
-
-## Client Screen Shots
-
-### Home Page
-
-![Home Page](./home.png)
-
-### File Builder Page
-
-![Builder Page](./builder.png)
-
-### Library Page
-
-![Library Page](./libary.png)
 
 ## Contributing
 
