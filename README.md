@@ -607,6 +607,20 @@ create/obtain a .env file in `/server` that includes the following:
 -   [Mailgun](https://www.mailgun.com/) - Mailing System
 -   [GCP](https://cloud.google.com/) - Cloud App Engine Deployment and File/Database Storage
 
+## Client Screen Shots
+
+### Home Page
+
+![Home Page](./home.png)
+
+### File Builder Page
+
+![Builder Page](./builder.png)
+
+### Library Page
+
+![Library Page](./libary.png)
+
 ## Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
